@@ -40,11 +40,11 @@ This desktop program demonstrates the relative importance of magnitude and phase
 
 ## Screenshots:
 ### Main Ui:
-![Screenshot (33)](https://github.com/hagersamir/Fourier-image-Mixer/assets/105936147/d31b0ad1-199e-4d04-861a-ab5681d4d5a2)
+![Screenshot (33)](https://github.com/hagersamir/Fourier-image-Mixer/assets/105936147/dcbe4630-98cb-4c9d-988d-ce807cedbdb6)
 ### Adjust Contrast and Brightness:
 ![Screenshot 2024-03-02 170524](https://github.com/hagersamir/Fourier-image-Mixer/assets/105936147/941c03c9-c984-4c30-90c3-aac9b7ba202b)
 ### Mixing 2 imgs mode1 (mag&phase) in output port 1:
-![Screenshot (34)](https://github.com/hagersamir/Fourier-image-Mixer/assets/105936147/466d8b94-183e-45ed-a27f-75821e2a1fed)
+![Screenshot (34)](https://github.com/hagersamir/Fourier-image-Mixer/assets/105936147/c0b8ef8c-b30e-4fda-ad5f-f81d6de8d3d0)
 ### Mixing 2 imgs mode2 (real&imaginary) in output port 2:
 ![Screenshot (35)](https://github.com/hagersamir/Fourier-image-Mixer/assets/105936147/a1c20bac-5016-4f27-838a-d9a25b18d9a1)
 ### Mixing small regions(at center) of 4 imgs mode1 (mag&phase) using inner region in output port 1:
