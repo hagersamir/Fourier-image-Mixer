@@ -116,3 +116,12 @@ By following these instructions, you can effectively use the Fourier-Image-Mixer
 - NumPy for mathematical operations
 - OpenCV for image processing
 
+  ## Contribution
+  ### **Our Team :**
+ <div align="left">
+  <a href="https://github.com/malaknasser812"><img src="https://avatars.githubusercontent.com/u/61388796?v=4" width="100" height="100"></a>
+  <a href="https://github.com/camelliamarwan"><img src="https://avatars.githubusercontent.com/u/115187802?v=4" width="100" height="100"></a>
+  <a href="https://github.com/fou65"><img src="https://avatars.githubusercontent.com/u/115308809?v=4" width="100" height="100"></a>
+  <a href="https://github.com/hagersamir"><img src="https://avatars.githubusercontent.com/u/105936147?v=4" width="100" height="100"></a>
+</div>
+
